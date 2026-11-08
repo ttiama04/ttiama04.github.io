@@ -10,7 +10,7 @@ Economista ecologico focalizzato su metabolismo sociale, vincoli termodinamici e
 * **[L'Ecoalgoretica nel campo](/paper/Paper_WFF_FAO.pdf)**  
   *Policy paper per la FAO su IA, AgriTech e bilancio idrico.*
 
-* **[Verso un'Eco-Algoretica: Profilo Giuridico](/paper/VERSO%20UN%20ECO-ALGORITICA.....pdf)**  
+* **[Verso un'Eco-Algoretica: Profilo Giuridico](/paper/paper/VERSO%20UN'ECO-ALGORITICA....pdf)**  
   *Analisi del quadro normativo europeo (AI Act, CSDDD, EED) e impatti ambientali.*
 
 * **[Dall'Economia di Flusso all'Economia di Stock](/paper/Tesi%20Triennale.pdf)**  
